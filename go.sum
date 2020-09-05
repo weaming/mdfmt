@@ -1,0 +1,5 @@
+github.com/mdigger/goldmark-formatter v0.0.0-20200106164310-b1541ff9c779 h1:WqZC+ItwUshv7ZbRB0z/BBjKV6mGO2kg9qbglYRFD9w=
+github.com/mdigger/goldmark-formatter v0.0.0-20200106164310-b1541ff9c779/go.mod h1:2F1ZcwEz0Xa/KxwQ5BSAlNEsjQbp2diijzkKDl9i3II=
+github.com/yuin/goldmark v1.1.20/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
+github.com/yuin/goldmark v1.2.1 h1:ruQGxdhGHe7FWOJPT0mKs5+pD2Xs1Bm/kdGlHO04FmM=
+github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
